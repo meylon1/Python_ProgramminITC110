@@ -5,8 +5,7 @@ def main():
     num = eval (input (" please enter number in kilometer "))
     for i in range(1):
         num = num * 0.62137
-        print(num)
-        
+        print(num)     
    #converting mile to km    
     print(" convert miles to kilometers")
     num = eval (input (" please enter number in miles "))
